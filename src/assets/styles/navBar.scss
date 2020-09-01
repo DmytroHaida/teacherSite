@@ -1,0 +1,13 @@
+.navigationBarWrapper {
+    grid-area: n;
+    background-color: #f2f0f0;
+}
+.navBarItems {
+    display: flex;
+    text-align: center;
+    justify-content: flex-end;
+}
+.navMenuItem {
+    color: #000;
+    text-decoration: none;
+}
